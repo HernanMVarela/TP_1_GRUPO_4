@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP N°1</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="nombre1">Clifton Manuel</string>
+    <string name="nombre2">Fernandez Leonardo</string>
+    <string name="nombre3">Gimenez Pablo</string>
+    <string name="nombre4">Sinnott Segura Gonzalo</string>
+    <string name="nombre5">Varela Hernan</string>
+</resources>
