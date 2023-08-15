@@ -15,4 +15,9 @@ public class MainActivity extends AppCompatActivity {
         android.content.Intent intent = new android.content.Intent(this, Ejercicio2.class);
         startActivity(intent);
     }
+
+    public void navegarEjercicio1(android.view.View view) {
+        android.content.Intent intent = new android.content.Intent(this, Ejercicio1.class);
+        startActivity(intent);
+    }
 }
