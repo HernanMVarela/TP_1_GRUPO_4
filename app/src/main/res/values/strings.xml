@@ -26,4 +26,6 @@
     <string name="operacion_igual">=</string>
     <string name="operacion_borrar">C</string>
     <string name="operacion_decimal">.</string>
+    <string name="parentesis_abrir">(</string>
+    <string name="parentesis_cerrar">)</string>
 </resources>
