@@ -51,4 +51,9 @@ public class Ejercicio2 extends AppCompatActivity {
         }
         isResult = true;
     }
+
+    public void Volver(android.view.View view) {
+        android.content.Intent intent = new android.content.Intent(this, MainActivity.class);
+        startActivity(intent);
+    }
 }

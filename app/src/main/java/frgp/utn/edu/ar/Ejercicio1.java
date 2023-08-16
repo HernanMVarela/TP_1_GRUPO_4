@@ -34,4 +34,10 @@ public class Ejercicio1 extends AppCompatActivity {
         String result = String.valueOf(suma);
         tv1.setText(result);
     }
+
+    public void Volver(android.view.View view) {
+        android.content.Intent intent = new android.content.Intent(this, MainActivity.class);
+        startActivity(intent);
+    }
+
 }
