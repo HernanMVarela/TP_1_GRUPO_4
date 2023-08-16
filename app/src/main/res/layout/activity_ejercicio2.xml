@@ -36,6 +36,7 @@
                 android:layout_height="90dp"
                 android:layout_margin="5dp"
                 android:backgroundTint="#B8C1D3"
+                android:onClick="Limpiar"
                 android:text="@string/operacion_borrar"
                 android:textColor="#040404"
                 android:textSize="34sp" />
