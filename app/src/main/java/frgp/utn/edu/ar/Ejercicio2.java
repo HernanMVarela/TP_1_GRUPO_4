@@ -45,7 +45,11 @@ public class Ejercicio2 extends AppCompatActivity {
         DoubleEvaluator evaluator = new DoubleEvaluator();
         try {
             String resultado = String.valueOf(evaluator.evaluate(res.getText().toString()));
-            res.setText(resultado);
+            if(resultado.length()>20){
+                res.setText("Too Large");
+            }else{
+                res.setText(resultado);
+            }
         } catch (Exception e) {
             res.setText("ERROR");
         }

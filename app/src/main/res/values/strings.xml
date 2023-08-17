@@ -28,4 +28,7 @@
     <string name="operacion_decimal">.</string>
     <string name="parentesis_abrir">(</string>
     <string name="parentesis_cerrar">)</string>
+    <string name="calcular">Calcular</string>
+    <string name="primer_num">Primer Número</string>
+    <string name="segundo_num">Segundo Número</string>
 </resources>
